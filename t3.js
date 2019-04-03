@@ -1,9 +1,9 @@
-if (!!test)
+if (test)
 {
 
 }
 
-if (!!test3)
+if (test3)
 {
 
 }
@@ -13,12 +13,12 @@ if (!!test3)
 // v1
 // v2
 
-if (!!test4)
+if (test4)
 {
 
 }
 
-if (!!test2)
+if (test2)
 {
 
 }
@@ -28,7 +28,7 @@ if (!!test2)
 // v3
 // v4
 
-if (!!test5)
+if (test5)
 {
 
 }
