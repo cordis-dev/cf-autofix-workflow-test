@@ -1,5 +1,5 @@
 //
-if (!!test)
+if (test)
 {
 
 }
@@ -10,12 +10,12 @@ if (!!test)
 // l7
 // l8
 
-if (!!test3)
+if (test3)
 {
 
 } // a
 
-if (!!test2)
+if (test2)
 {
 
 }
@@ -25,7 +25,7 @@ if (!!test2)
 // l6
 // l9
 
-if (!!test4)
+if (test4)
 {
 
 } // b
